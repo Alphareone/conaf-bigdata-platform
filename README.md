@@ -162,7 +162,31 @@ Documentación técnica.
 🚀 Proyección
 
 Este proyecto representa una aproximación práctica al uso de tecnologías Big Data y Cloud Computing para resolver problemáticas de interés público, demostrando la capacidad de integrar datos provenientes de diversas fuentes y transformarlos en información útil para la toma de decisiones.
+# 📂 Evidencias del Proyecto
 
+## 📄 Documentación
+
+- Caso de estudio
+- Presentación final
+- Diagramas de arquitectura
+
+## 📊 Resultados
+
+- Capturas de dashboards
+- Consultas realizadas en BigQuery
+- Visualizaciones analíticas
+
+## Evidencias
+[Capturas de los graficos.pdf](https://github.com/user-attachments/files/28937829/Capturas.de.los.graficos.pdf)
+
+## 🎥 Video Demostrativo
+
+Como parte de la presentación final del proyecto se realizó una demostración funcional de la plataforma desarrollada por el equipo.
+
+🔗 Video:
+https://drive.google.com/file/d/1sPXp3NI4t-oj3JNfiMcQww8nUh1Qdc7r/view?usp=sharing
+
+**Nota:** El video fue elaborado por Fiorela Osorio como parte del trabajo colaborativo realizado por el equipo.
 📄 Licencia
 
 Proyecto desarrollado con fines académicos y educativos.
